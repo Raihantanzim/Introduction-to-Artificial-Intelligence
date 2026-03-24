@@ -1,5 +1,5 @@
 # Harnessing NLP for Diabetic Text Classification using Neural Network
-
+![image alt](https://github.com/Raihantanzim/Machine-Learning/blob/9bea35245988ff7fef6f43f2cebe7c19c45cdc96/Machine%20Learning%20in%20Food%20Delivery%20Operations.jpg)
 ## Overview
 This project explores the use of machine learning and deep learning techniques for **diabetes prediction** using structured medical attributes. The main goal is to build an intelligent classification system that can help identify whether a patient is likely to have diabetes based on diagnostic features.
 
